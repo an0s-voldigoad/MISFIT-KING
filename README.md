@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm MISFIT KING</h1>
 <h3 align="center">A passionate Cybersecurity Enthusiast from India</h3>
 
-<img align = "right" alt="Hacker" width="400" src="https://gifdb.com/images/high/hacker-man-glitching-r45d2ni1xwaanr2m.webp">
+<img align = "right" alt="Hacker" width="200" src="https://gifdb.com/images/high/hacker-man-glitching-r45d2ni1xwaanr2m.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=an0s-volgigoad&label=Profile%20views&color=0e75b6&style=flat" alt="an0s-volgigoad" /> </p>
 
 <p align="left"> <a href="https://twitter.com/misfit_an0s" target="blank"><img src="https://img.shields.io/twitter/follow/misfit_an0s?logo=twitter&style=for-the-badge" alt="misfit_an0s" /></a> </p>
