@@ -5,8 +5,6 @@
 <img align = "right" alt="Hacker" width="400" src="https://gifdb.com/images/high/hacker-man-glitching-r45d2ni1xwaanr2m.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=an0s-volgigoad&label=Profile%20views&color=0e75b6&style=flat" alt="an0s-volgigoad" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=an0s-volgigoad" alt="an0s-volgigoad" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/misfit_an0s" target="blank"><img src="https://img.shields.io/twitter/follow/misfit_an0s?logo=twitter&style=for-the-badge" alt="misfit_an0s" /></a> </p>
 
 - 🔭 I’m currently working on [Devil Security](t.me/DeviLSecurity)
@@ -28,9 +26,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/an0s"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="an0s" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=an0s-volgigoad&show_icons=true&locale=en&layout=compact" alt="an0s-volgigoad" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=an0s-volgigoad&show_icons=true&locale=en" alt="an0s-volgigoad" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=an0s-volgigoad&" alt="an0s-volgigoad" /></p>
