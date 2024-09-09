@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **any queries on Ethical and Non Ethical Hacking on Cybersecurity**
 
-- 📫 How to reach me **voldigoadmisfit@gmail.com**
+- 📫 How to reach me? **voldigoadmisfit@gmail.com**
 
-- ⚡ Fun fact **Catch me If You Can**
+- ⚡ **Catch me If You Can**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
