@@ -26,3 +26,8 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/an0s"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="an0s" /></a></p><br><br>
+
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=an0s-voldigoad&show_icons=true&locale=en&layout=compact" alt="an0s-volgigoad" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=an0s-voldigoad&" alt="an0s-voldigoad" /></p>
