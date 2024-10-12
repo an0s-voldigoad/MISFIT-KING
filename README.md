@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Devil Security](t.me/DeviLSecurity)
 
-- 💬 Ask me about **any queries on Ethical and Non Ethical Hacking on Cybersecurity**
+- 💬 Ask me about **any queries on Ethical and BlackHat Hacking on Cybersecurity**
 
 - 📫 How to reach me? **voldigoadmisfit@gmail.com**
 
