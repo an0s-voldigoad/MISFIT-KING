@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/misfit_an0s" target="blank"><img src="https://img.shields.io/twitter/follow/misfit_an0s?logo=twitter&style=for-the-badge" alt="misfit_an0s" /></a> </p>
 
-- 🔭 I’m currently working on [Devil Security](t.me/DeviLSecurity)
+- 🔭 I’m currently working on Nothing. :D
 
 - 💬 Ask me about **any queries on Ethical and BlackHat Hacking on Cybersecurity**
 
