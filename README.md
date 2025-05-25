@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **any queries on Ethical and BlackHat Hacking on Cybersecurity**
 
-- 📫 How to reach me? **voldigoadmisfit@gmail.com**
+- 📫 How to reach me? **rudramadhabmalla7@gmail.com**
 
 - ⚡ **Catch me If You Can**
 
