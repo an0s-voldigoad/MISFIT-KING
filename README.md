@@ -1,5 +1,5 @@
 ![logo](https://i.postimg.cc/X7r4p6WP/dfpgsb.jpg)
-<h1 align="center">Hi 👋, I'm MISFIT KING</h1>
+<h1 align="center">Hi 👋, I'm Rudra</h1>
 <h3 align="center">A passionate Cybersecurity Enthusiast from India</h3>
 
 <img align = "right" alt="Hacker" width="200" src="https://gifdb.com/images/high/hacker-man-glitching-r45d2ni1xwaanr2m.webp">
